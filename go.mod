@@ -1,4 +1,4 @@
-module github.com/chizutan5/goth
+module github.com/ylcodebase/goth
 
 go 1.15
 
